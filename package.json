@@ -1,0 +1,20 @@
+{
+  "name": "md-2-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "deno test -A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cu8code/md-2-html-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cu8code/md-2-html-api/issues"
+  },
+  "homepage": "https://github.com/cu8code/md-2-html-api#readme"
+}
